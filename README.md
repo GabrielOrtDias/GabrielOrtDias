@@ -1,5 +1,5 @@
 # 💫 About Me:
-i'm a ccomp student in Brazil<br>i'm studying mobile developing 
+i'm a ccomp student in Brazil<br>i'm studying web full stack
 
 
 ## 🌐 Socials:
